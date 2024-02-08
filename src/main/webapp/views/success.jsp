@@ -1,0 +1,1 @@
+<h1>new user Registered successfully</h1>
